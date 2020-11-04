@@ -66,7 +66,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 4. **Github** - 논문 등재 완료 후 코드 공개
 
 ---
-
+<!--
 **파이썬을 활용한 다기준 의사결정 방법론 라이브러리 제작**<br>개인 프로젝트
 
 1. **기간** - 2019년 10월 1일부터 
@@ -84,7 +84,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 5. <a href="https://github.com/unerue/decisionpy" target="_blank"><b>Github</b></a>
 
 ---
-
+-->
 **파이썬을 활용한 메타휴리스틱스**<br>개인 프로젝트
 
 1. **기간** - 2019년 9월 1일부터 
