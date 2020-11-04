@@ -15,8 +15,8 @@ Jigsaw Multilingual Toxic Comment Classification 357/1621 (23%) <img alt="Kaggle
 * [Kaggle] Don't Overfit! II 570/2330 (25%)
 * [Kaggle] Predict Future Sales 2546/9351 (28%)
 * [Dacon] 공공 데이터 활용 온도 추정 AI 경진대회 20/378
-* [Dacon] 랜드마크 분류 AI 경진대회
-* [Dacon] K-Fashion AI 경진대회
+* [Dacon] <a href="https://dacon.io/competitions/official/235585/leaderboard/">랜드마크 분류 AI 경진대회</a>
+* [Dacon] <a href="https://dacon.io/competitions/official/235672/leaderboard/">K-Fashion AI 경진대회</a>
 
 * 2020 인공지능 온라인 경진대회 Task 7 Object detection 3등 전체 합산 43/400
 * **캐글 코리아와 함께하는 1st ML 대회**<br>2019년 2월 13일 구글 코리아 후원/캐글 코리아
