@@ -9,8 +9,9 @@
 ---
 ## Competitions
 
-* <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle%20-blue.svg" /> **[Kaggle]** Jigsaw Multilingual Toxic Comment Classification 357/1621 (23%) 
-* **[Kaggle]** Global Wheat Detection 673/2245 (30%)
+<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle%20-blue.svg" />Jigsaw Multilingual Toxic Comment Classification 357/1621 (23%) 
+<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle%20-blue.svg" />Global Wheat Detection 673/2245 (30%)
+* 
 * [Kaggle] Don't Overfit! II 570/2330 (25%)
 * [Kaggle] Predict Future Sales 2546/9351 (28%)
 * [Dacon] 공공 데이터 활용 온도 추정 AI 경진대회 20/378
