@@ -54,56 +54,21 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 ## Projects
 
 **건설현장의 위험요소 감지를 위한 딥러닝 기반 실시간 영상분석 시스템 개발**<br>한국연구재단(2020R1A2B5B01001609) 2020 3월 1일부터 ~
+
 **IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단(2017R1A2B4003722) 2018년 3월 1일부터 2020년 2월 29일까지
+
 **2018년도 빅데이터 분석 준전문가 양성교육과정 강의**<br>창원대학교 LINC플러스사업단, 2018년 10월 4일부터 2018년 11월 22일까지
+
 **공급사슬 재고관리모형 개발**<br>창원대학교, 2018년 9월 1일부터 2019년 12월 31일까지, 다품목 일괄구매 및 조달일정계획 모형에 선형 계획법을 적용하여 모형을 개발하고 최적해 탐색 가능성과 기존 알고리즘과의 비교 실험
+
 **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ## Toy Projects
 **파이썬을 활용한 다기준 의사결정 방법론 라이브러리 제작**<br>
+
 **파이썬을 활용한 메타휴리스틱스**<br>
+
 **파이썬을 활용한 경영과학**<br>
-**캐글 코리아 창원 지역 스터디 그룹 운영**<br>주최: 캐클 코리아<br>1차 - 종료<br>2차 - 현재 진행 중
-
-1. **기간** - 2019년 10월 1일부터 
-1. **목적** - 계량적 의사결정 방법론을 `sklearn` API를 참고하여 파이썬으로 구현
-2. **수행 업무** - 계량적 의사결정 방법론 구현
-3. **구현 기술**
-    * 평가기법
-        * Data Envelopment Analysis
-    * 의사결정기법
-        * Analytical Hierarchy Process
-        * Technique for Order of Preference by Similarity to Ideal Solution
-        * Preference Ranking Organization METHod for Enrichment of Evaluations
-        * Goal Programming
-    * Miscellaneous - IPA (Importance-Performance Analysis)
-5. <a href="https://github.com/unerue/decisionpy" target="_blank"><b>Github</b></a>
-
----
--->
-**파이썬을 활용한 메타휴리스틱스**<br>개인 프로젝트
-
-1. **기간** - 2019년 9월 1일부터 
-1. **목적** - 조합 최적화에서 탐색 기법으로 사용되는 메타휴리스틱스를 파이썬으로 구현
-2. **메타휴리스틱 기법**
-    * Simulated Annealing
-    * Tabu Search
-    * Genetic Algorithm
-    * Evolution Strategy
-    * Particle Swarm Optimization
-    * Ant Colony Optimization
-4. <a href="https://github.com/unerue/metaheuristics-tutorial" target="_blank"><b>Github</b></a>
-
----
-
-**파이썬을 활용한 경영과학**<br>개인 프로젝트
-
-1. **기간** - 2019년 10월 1일부터
-1. **목적** - 경영과학의 대부분은 EXCEL을 학습도구로 사용, 이를 파이썬을 이용하여 기초 강좌를 개발
-1. **수행 업무**
-    * 경영과학 서적 2권 파이썬 `GUROBI`, `PuLP`로 개발
-4. <a href="https://github.com/unerue/or-tutorial" target="_blank"><b>Github</b></a>
-
 ---
 
 ## Activity
