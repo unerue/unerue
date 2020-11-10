@@ -64,11 +64,13 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ## Toy Projects
+
 **파이썬을 활용한 다기준 의사결정 방법론 라이브러리 제작**<br>
 
 **파이썬을 활용한 메타휴리스틱스**<br>
 
 **파이썬을 활용한 경영과학**<br>
+
 ---
 
 ## Activity
