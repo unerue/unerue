@@ -9,7 +9,7 @@
 ---
 ## Competitions
 
-* `Dacon` **[랜드마크 분류 AI 경진대회]("https://dacon.io/competitions/official/235585/leaderboard/")**
+* `Dacon` [**랜드마크 분류 AI 경진대회**]("https://dacon.io/competitions/official/235585/leaderboard/")
 * `Dacon` <a href="https://dacon.io/competitions/official/235672/leaderboard/">K-Fashion AI 경진대회</a>
 * `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357/1621 (23%)
 * `Kaggle` **Global Wheat Detection** 673/2245 (30%)
