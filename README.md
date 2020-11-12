@@ -4,12 +4,12 @@
 
 ## Interests
 
-`조합 최적화`, `메타휴리스틱스`, `컴퓨터 비전`
+`경영과학`, `메타휴리스틱스`, `컴퓨터 비전`
 
 ---
 ## Competitions
 
-* [Kaggle] Jigsaw Multilingual Toxic Comment Classification 357/1621 (23%)
+* `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357/1621 (23%)
 * [Kaggle] Global Wheat Detection 673/2245 (30%)
 * [Kaggle] Don't Overfit! II 570/2330 (25%)
 * [Kaggle] Predict Future Sales 2546/9351 (28%)
