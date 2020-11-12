@@ -4,7 +4,8 @@
 
 ## Interests
 
-`경영과학`, `메타휴리스틱스`, `컴퓨터 비전`
+`경영과학`, `메타휴리스틱스`, `컴퓨터비전`
+`Python`, `JavaScript`, `C++`
 
 ---
 ## Competitions
