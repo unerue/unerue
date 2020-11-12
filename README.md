@@ -9,22 +9,22 @@
 ---
 ## Competitions
 
+* `Dacon` <a href="https://dacon.io/competitions/official/235585/leaderboard/">랜드마크 분류 AI 경진대회</a>
+* `Dacon` <a href="https://dacon.io/competitions/official/235672/leaderboard/">K-Fashion AI 경진대회</a>
 * `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357/1621 (23%)
-* [Kaggle] Global Wheat Detection 673/2245 (30%)
-* [Kaggle] Don't Overfit! II 570/2330 (25%)
-* [Kaggle] Predict Future Sales 2546/9351 (28%)
-* [Dacon] 공공 데이터 활용 온도 추정 AI 경진대회 20/378
-* [Dacon] <a href="https://dacon.io/competitions/official/235585/leaderboard/">랜드마크 분류 AI 경진대회</a>
-* [Dacon] <a href="https://dacon.io/competitions/official/235672/leaderboard/">K-Fashion AI 경진대회</a>
+* `Kaggle` **Global Wheat Detection** 673/2245 (30%)
+* `Kaggle` **Don't Overfit! II** 570/2330 (25%)
+* `Kaggle` **Predict Future Sales** 2546/9351 (28%)
+* `Dacon` **공공 데이터 활용 온도 추정 AI 경진대회** 20/378
 * **2020 인공지능 온라인 경진대회** 과학기술정보통신부, Task 7 Object detection 3등 전체 합산 43/400
 * **캐글 코리아와 함께하는 1st ML 대회** 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
 * **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상** 2018년 11월 21, 한국정보화진흥원
 
 ## Publications
 
-**<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** <img alt="SCIE" height="12em" src="https://img.shields.io/badge/SCIE%20-orange.svg" /><br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236.
+**<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** `SCIE`<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236.
 
-**<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회지, 24(3), 65-71.
+**<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회지, 24(3), 65-71.
 
 **<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
 
