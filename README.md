@@ -26,7 +26,7 @@
 
 **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회지, 24(3), 65-71.
 
-**<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
+**<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a>** `KCI`<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
 
 **<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>차병철<sup>*</sup>, 강경수<sup>2</sup>, 조경해<sup>3</sup> (2018). 대한설비관리학회지, 23(3), 19-26.
 
