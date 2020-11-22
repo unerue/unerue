@@ -6,28 +6,23 @@
 
 ### Competitions
 
-- `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** - **[7등/82] (21%)**
-- `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** - **[9등/41] (9%)**
-- `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357/1621 (23%)
-- `Kaggle` **Global Wheat Detection** 673/2245 (30%)
-- `Kaggle` **Don't Overfit! II** 570/2330 (25%)
-- `Kaggle` **Predict Future Sales** 2546/9351 (28%)
-- `Dacon` **[공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)** - **[20등/378](https://dacon.io/competitions/official/235584/leaderboard/)**
-- `Misc` **2020 인공지능 온라인 경진대회** - 과학기술정보통신부, Task 7: Object detection 3등(전체 합산 43등/400)
-- `Misc` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
-- `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
+* `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** - **[7등/82] (21%)**
+* `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** - **[9등/41] (9%)**
+* `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357/1621 (23%)
+* `Kaggle` **Global Wheat Detection** 673/2245 (30%)
+* `Kaggle` **Don't Overfit! II** 570/2330 (25%)
+* `Kaggle` **Predict Future Sales** 2546/9351 (28%)
+* `Dacon` **[공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)** - **[20등/378](https://dacon.io/competitions/official/235584/leaderboard/)**
+* `Misc` **2020 인공지능 온라인 경진대회** - 과학기술정보통신부, Task 7: Object detection 3등(전체 합산 43등/400)
+* `Misc` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
+* `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
 
 ### Publications
-
-**<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** `SCIE`<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236.
-
-**<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회지, 24(3), 65-71.
-
-**<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a>** `KCI`<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
-
-**<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup>, 조경해<sup>3</sup> (2018). 대한설비관리학회지, 23(3), 19-26.
-
-**<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.<br><a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance-performance-analysis.ipynb" target="_blank"><b>importance-performance-analysis.ipynb</b></a>
+* **<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** `SCIE`<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236.
+* **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회지, 24(3), 65-71.
+* **<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a>** `KCI`<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
+* **<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup>, 조경해<sup>3</sup> (2018). 대한설비관리학회지, 23(3), 19-26.
+* **<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.<br><a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance-performance-analysis.ipynb" target="_blank"><b>importance-performance-analysis.ipynb</b></a>
 
 ---
 
