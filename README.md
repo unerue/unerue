@@ -5,7 +5,6 @@
 **Interests:** `경영과학`, `메타휴리스틱스`, `컴퓨터비전`, `Python`, `JavaScript`, `C++`
 
 ### Competitions
-
 * `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** - **[7등/82] (21%)**
 * `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** - **[9등/41] (9%)**
 * `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357/1621 (23%)
@@ -16,6 +15,15 @@
 * `Misc` **2020 인공지능 온라인 경진대회** - 과학기술정보통신부, Task 7: Object detection 3등(전체 합산 43등/400)
 * `Misc` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
 * `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
+
+### Projects
+
+* **건설현장의 위험요소 감지를 위한 딥러닝 기반 실시간 영상분석 시스템 개발**<br>한국연구재단(2020R1A2B5B01001609) 2020 3월 1일부터 ~
+* **IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단(2017R1A2B4003722) 2018년 3월 1일부터 2020년 2월 29일까지
+* **2018년도 빅데이터 분석 준전문가 양성교육과정 강의**<br>창원대학교 LINC플러스사업단, 2018년 10월 4일부터 2018년 11월 22일까지
+* **공급사슬 재고관리모형 개발**<br>창원대학교, 2018년 9월 1일부터 2019년 12월 31일까지, 다품목 일괄구매 및 조달일정계획 모형에 선형 계획법을 적용하여 모형을 개발하고 최적해 탐색 가능성과 기존 알고리즘과의 비교 실험
+* **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
+
 
 ### Publications
 * **<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** `SCIE`<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236.
@@ -39,14 +47,4 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-### Projects
 
-**건설현장의 위험요소 감지를 위한 딥러닝 기반 실시간 영상분석 시스템 개발**<br>한국연구재단(2020R1A2B5B01001609) 2020 3월 1일부터 ~
-
-**IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단(2017R1A2B4003722) 2018년 3월 1일부터 2020년 2월 29일까지
-
-**2018년도 빅데이터 분석 준전문가 양성교육과정 강의**<br>창원대학교 LINC플러스사업단, 2018년 10월 4일부터 2018년 11월 22일까지
-
-**공급사슬 재고관리모형 개발**<br>창원대학교, 2018년 9월 1일부터 2019년 12월 31일까지, 다품목 일괄구매 및 조달일정계획 모형에 선형 계획법을 적용하여 모형을 개발하고 최적해 탐색 가능성과 기존 알고리즘과의 비교 실험
-
-**중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
