@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kyung-Su Kang @unerue
 
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
