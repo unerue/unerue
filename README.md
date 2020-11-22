@@ -2,9 +2,7 @@
 
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
-## Interests
-
-`경영과학`, `메타휴리스틱스`, `컴퓨터비전`, `Python`, `JavaScript`, `C++`
+**Interests:** `경영과학`, `메타휴리스틱스`, `컴퓨터비전`, `Python`, `JavaScript`, `C++`
 
 ---
 ## Competitions
