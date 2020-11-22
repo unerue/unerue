@@ -4,8 +4,7 @@
 
 **Interests:** `경영과학`, `메타휴리스틱스`, `컴퓨터비전`, `Python`, `JavaScript`, `C++`
 
----
-## Competitions
+### Competitions
 
 * `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** - **[7등/82] (21%)**
 * `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** - **[9등/41] (9%)**
@@ -18,7 +17,7 @@
 * `Misc` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
 * `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
 
-## Publications
+### Publications
 
 **<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** `SCIE`<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236.
 
@@ -32,7 +31,7 @@
 
 ---
 
-## Conferences
+### Conferences
 
 **Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.<br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/models.py">models.py</a>, <a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/genetic_algorithm.py">genetic_algorithm.py</a>
 
@@ -45,7 +44,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 
 ---
 
-## Projects
+### Projects
 
 **건설현장의 위험요소 감지를 위한 딥러닝 기반 실시간 영상분석 시스템 개발**<br>한국연구재단(2020R1A2B5B01001609) 2020 3월 1일부터 ~
 
