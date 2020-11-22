@@ -30,8 +30,6 @@
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup>, 조경해<sup>3</sup> (2018). 대한설비관리학회지, 23(3), 19-26.
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.<br><a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance-performance-analysis.ipynb" target="_blank"><b>importance-performance-analysis.ipynb</b></a>
 
----
-
 ### Conferences
 * **Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.<br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/models.py">models.py</a>, <a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/genetic_algorithm.py">genetic_algorithm.py</a>
 * **건설현장 안전 지적 사항 분석** - `우수학술상`<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2019. 10). _한국건축시공학회 가을학술발표대회_. 한국교통대학교.
