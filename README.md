@@ -31,6 +31,8 @@
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a> <img alt="KCI" height="12em" src="https://img.shields.io/badge/KCI%20-yellow.svg" />**<br>조권래<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.<br><a href="https://nbviewer.jupyter.org/github/unerue/portfolio/blob/master/portfolio/importance-performance-analysis/importance-performance-analysis.ipynb" target="_blank"><b>importance-performance-analysis.ipynb</b></a>
 
 ### Conferences
+* **인스턴스 세그먼테이션 모형을 활용한 건설현장 작업자 안전모 인식 및 착용 판단 알고리즘 개발**<br>_한국CDE학회 동계학술발표대회_
+* **건설 현장 CCTV 영상에서 딥러닝을 이용한 사물 인식 기초 연구**<br>_한국건축시공학회 가을학술발표대회_
 * **Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.<br><a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/models.py">models.py</a>, <a href="https://github.com/unerue/portfolio/blob/master/portfolio/joint-replenishment-problem/genetic_algorithm.py">genetic_algorithm.py</a>
 * **건설현장 안전 지적 사항 분석** - `우수학술상`<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2019. 10). _한국건축시공학회 가을학술발표대회_. 한국교통대학교.
 * **Analysis of the Factors Influencing Fall Accidents in Korea**<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019. 7). _International Conference on
