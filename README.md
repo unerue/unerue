@@ -5,6 +5,7 @@
 **Interests:** `경영과학`, `메타휴리스틱스`, `컴퓨터비전`, `Python`, `JavaScript`, `C++`
 
 ### Competitions
+* `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162
 * `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** - **[7등/82] (21%)**
 * `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** - **[9등/41] (9%)**
 * `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357/1621 (23%)
