@@ -6,8 +6,8 @@
 
 ### Competitions
 * `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162
-* `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** - **[7등/82] (21%)**
-* `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** - **[9등/41] (9%)**
+* `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** - **[7등/82] (9%)**
+* `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** - **[9등/41] (21%)**
 * `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357/1621 (23%)
 * `Kaggle` **Global Wheat Detection** 673/2245 (30%)
 * `Kaggle` **Don't Overfit! II** 570/2330 (25%)
