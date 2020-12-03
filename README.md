@@ -38,4 +38,5 @@
 * **건설현장 안전 지적 사항 분석** - `우수학술상`<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2019. 10). _한국건축시공학회 가을학술발표대회_. 한국교통대학교.
 * **Analysis of the Factors Influencing Fall Accidents in Korea**<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019. 7). _International Conference on
 Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
+* **인체신호 감지 센서를 활용한 건설작업자 안전관리 방안**<br>강진우<sup>1</sup>, 강경수<sup>2</sup>, 류한국<sup>*</sup> (2019. 01. 25), _한국CDE학회 동계학술대회_
 * **랜덤 포레스트 기법을 이용한 건설현장 안전재해 예측 모형 기초 연구**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2018. 11). _한국건축시공학회 추계학술발표대회_. 서울과학기술대학교.
