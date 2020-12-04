@@ -2,7 +2,7 @@
 
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
-**Interests:** `경영과학`, `메타휴리스틱스`, `컴퓨터비전`, `Python`, `JavaScript`, `C++`
+**Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Python`, `JavaScript`, `C++`
 
 ### Competitions
 * `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162
