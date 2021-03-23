@@ -5,6 +5,7 @@
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Python`, `JavaScript`, `C++`
 
 ### Competitions
+* `Dacon` **제 2회 컴퓨터 비전 학습 경진대회** 8등/216명
 * `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162명
 * `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** 7등/82명(9%)
 * `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** 9등/41명(21%)
