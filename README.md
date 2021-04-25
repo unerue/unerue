@@ -5,15 +5,16 @@
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Python`, `JavaScript`, `C++`
 
 ### Competitions
-* `Dacon` **제 2회 컴퓨터 비전 학습 경진대회** 8등/216명
-* `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162명
-* `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** 7등/82명(9%)
-* `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** 9등/41명(21%)
-* `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357등/1621명(23%)
-* `Kaggle` **Global Wheat Detection** 673등/2245명(30%)
-* `Kaggle` **Don't Overfit! II** 570등/2330명(25%)
-* `Kaggle` **Predict Future Sales** 2546등/9351명(28%)
-* `Dacon` **[공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)** 20등/378명
+* `Dacon` **모션 키포인트 검출 AI 경진대회** 21등/156팀
+* `Dacon` **제 2회 컴퓨터 비전 학습 경진대회** 8등/216팀
+* `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162팀
+* `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** 7등/82팀(9%)
+* `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** 9등/41팀(21%)
+* `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357등/1621팀(23%)
+* `Kaggle` **Global Wheat Detection** 673등/2,245팀(30%)
+* `Kaggle` **Don't Overfit! II** 570등/2,330팀(25%)
+* `Kaggle` **Predict Future Sales** 2546등/9,351팀(28%)
+* `Dacon` **[공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)** 20등/378팀
 * `Misc` **2020 인공지능 온라인 경진대회** - 과학기술정보통신부, Task 7: Object detection 3등(전체 합산 43등/400)
 * `Kaggle` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
 * `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
