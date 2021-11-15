@@ -28,6 +28,7 @@
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### Publications
+* **<a href="https://www.sciencedirect.com/science/article/pii/S0926580521004854">Application of one-stage instance segmentation with weather conditions in surveillance cameras at construction sites</a>** `SCIE`<br>Kyung-Su Kang<sup>1</sup>, Young-Woon Cho, Kyo-Hoon Jin, Young-Bin Kim, Han-Guk Ryu<sup>*</sup> (2022). Automation in Construction, 133, 104034.
 * **<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** `SCIE`<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236.
 * **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회지, 24(3), 65-71.
 * **<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a>** `KCI`<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
