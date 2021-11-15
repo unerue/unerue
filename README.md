@@ -2,7 +2,8 @@
 
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
-**Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Python`, `JavaScript`, `C++`
+**Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision` 
+**Technical stack:** `Python`, `JavaScript`, `Swift (Core ML)`, `C++`
 
 ### Projects
 * **2021년 데이터바우처 지원사업**<br>한국데이터산업진흥원 2021년 6월 1일부터 11월 30일까지
