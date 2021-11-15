@@ -4,21 +4,6 @@
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Python`, `JavaScript`, `C++`
 
-### Competitions
-* `Dacon` **[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701/leaderboard/)** 21등/156팀
-* `Dacon` **[제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697/leaderboard/)** 8등/216팀
-* `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162팀
-* `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** 7등/82팀(9%)
-* `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** 9등/41팀(21%)
-* `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357등/1621팀(23%)
-* `Kaggle` **Global Wheat Detection** 673등/2,245팀(30%)
-* `Kaggle` **Don't Overfit! II** 570등/2,330팀(25%)
-* `Kaggle` **Predict Future Sales** 2546등/9,351팀(28%)
-* `Dacon` **[공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)** 20등/378팀
-* `Misc` **2020 인공지능 온라인 경진대회** - 과학기술정보통신부, Task 7: Object detection 3등(전체 합산 43등/400)
-* `Kaggle` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
-* `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
-
 ### Projects
 * **2021년 데이터바우처 지원사업**<br>한국데이터산업진흥원 2021년 6월 1일부터 11월 30일까지
 * **건설현장의 위험요소 감지를 위한 딥러닝 기반 실시간 영상분석 시스템 개발**<br>한국연구재단(2020R1A2B5B01001609) 2020년 3월 1일부터(진행)
@@ -44,3 +29,18 @@
 Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * **인체신호 감지 센서를 활용한 건설작업자 안전관리 방안**<br>강진우<sup>1</sup>, 강경수<sup>2</sup>, 류한국<sup>*</sup> (2019. 01. 25), _한국CDE학회 동계학술대회_
 * **랜덤 포레스트 기법을 이용한 건설현장 안전재해 예측 모형 기초 연구**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2018. 11). _한국건축시공학회 추계학술발표대회_. 서울과학기술대학교.
+
+### Competitions
+* `Dacon` **[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701/leaderboard/)** 21등/156팀
+* `Dacon` **[제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697/leaderboard/)** 8등/216팀
+* `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162팀
+* `Dacon` **[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/leaderboard/)** 7등/82팀(9%)
+* `Dacon` **[K-Fashion AI 경진대회](https://dacon.io/competitions/official/235672/leaderboard/)** 9등/41팀(21%)
+* `Kaggle` **Jigsaw Multilingual Toxic Comment Classification** 357등/1621팀(23%)
+* `Kaggle` **Global Wheat Detection** 673등/2,245팀(30%)
+* `Kaggle` **Don't Overfit! II** 570등/2,330팀(25%)
+* `Kaggle` **Predict Future Sales** 2546등/9,351팀(28%)
+* `Dacon` **[공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)** 20등/378팀
+* `Misc` **2020 인공지능 온라인 경진대회** - 과학기술정보통신부, Task 7: Object detection 3등(전체 합산 43등/400)
+* `Kaggle` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
+* `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
