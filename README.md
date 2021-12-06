@@ -6,15 +6,18 @@
 **Technical stack:** `Python`, `JavaScript`, `Swift (Core ML)`, `C++`
 
 ### Projects
+* **2021년학년도 인공지능 SW특강 - PyGame으로 배우는 객체 지향 프로그래밍**<br>소프트웨어중심대학사업단, 2021년 12월 22일부터 30일까지
 * **2021년 데이터바우처 지원사업**<br>한국데이터산업진흥원 2021년 6월 1일부터 11월 30일까지
-* **건설현장의 위험요소 감지를 위한 딥러닝 기반 실시간 영상분석 시스템 개발**<br>한국연구재단(2020R1A2B5B01001609) 2020년 3월 1일부터(진행)
-* **IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단(2017R1A2B4003722) 2018년 3월 1일부터 2020년 2월 29일까지(완료)
+* **리버스-옵셋 프린팅 기술을 활용한 유연 메타물질 기반 저가, 대용량 테라헤르츠 무칩 태그 연구**<br>과학기술정보통신부 - 개인기초연구, 2021년(진행)
+* **건설현장의 위험요소 감지를 위한 딥러닝 기반 실시간 영상분석 시스템 개발**<br>한국연구재단(2020R1A2B5B01001609) - 중견연구(후속), 2020년 3월 1일부터(진행)
+* **IoT 센서 기술과 데이터 사이언스 기반의 건설 작업자 안전관리시스템 개발**<br>한국연구재단(2017R1A2B4003722) - 중견연구, 2018년 3월 1일부터 2020년 2월 29일까지(완료)
 * **2018년도 빅데이터 분석 준전문가 양성교육과정 강의**<br>창원대학교 LINC플러스사업단, 2018년 10월 4일부터 2018년 11월 22일까지(완료)
 * **다품목 일괄구매 공급사슬 재고관리모형 개발**<br>창원대학교, 2018년 9월 1일부터 2019년 12월 31일까지(완료)
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### Publications
 * **<a href="https://www.sciencedirect.com/science/article/pii/S0926580521004854">Application of one-stage instance segmentation with weather conditions in surveillance cameras at construction sites</a>** `SCIE`<br>Kyung-Su Kang<sup>1</sup>, Young-Woon Cho, Kyo-Hoon Jin, Young-Bin Kim, Han-Guk Ryu<sup>*</sup> (2022). Automation in Construction, 133, 104034.
+* 
 * **<a href="https://www.sciencedirect.com/science/article/pii/S0925753519301110">Predicting types of occupational accidents at construction sites in Korea using random forest model</a>** `SCIE`<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019). Safety Science, 120, 226-236.
 * **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002511741">동적 수요에 따른 다품목 일괄구매 및 조달 일정계획에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수<sup>2</sup> (2019). 대한설비관리학회지, 24(3), 65-71.
 * **<a href="http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010027136138">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a>** `KCI`<br>강경수<sup>*</sup>, 박세민<sup>2</sup> (2019). 대한경영학회지, 32(4), 597-615.
