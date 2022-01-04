@@ -3,7 +3,7 @@
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision` <br>
-**Technical stack:** `Python`, `JavaScript`, `Swift (Core ML)`, `C++`
+**Technical stack:** `Python`, `JavaScript`, `Swift (Core ML)`, `C++`, `R`, `VBA`
 
 ### Projects
 * **2022년학년도 인공지능 SW특강 - 파이토치와 라이트닝으로 배우는 딥러닝**<br>소프트웨어중심대학사업단, 2022년 1월 10일부터 21일까지
