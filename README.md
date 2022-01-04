@@ -38,6 +38,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * **랜덤 포레스트 기법을 이용한 건설현장 안전재해 예측 모형 기초 연구**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2018. 11). _한국건축시공학회 추계학술발표대회_. 서울과학기술대학교.
 
 ### Competitions
+* `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/leaderboard/)** 4등/250팀
 * `Dacon` **[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701/leaderboard/)** 21등/156팀
 * `Dacon` **[제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697/leaderboard/)** 8등/216팀
 * `Kaggle` **[T-Academy X KaKr] 성인 인구조사 소득 예측 대회** 4등/162팀
