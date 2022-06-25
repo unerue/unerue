@@ -22,7 +22,7 @@
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### Publications
-* **<a href="">An interpretable machine learning approach for evaluating the feature importance affecting lost workdays at construction sites</a>** `SCI`<br>Kyung-Su Kang<sup>1</sup>, Choongwan Koo, Han-Guk Ryu<sup>*</sup> (2022). Journal of Building Engineering, 133, 104034.
+* **<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710222005472">An interpretable machine learning approach for evaluating the feature importance affecting lost workdays at construction sites</a>** `SCI`<br>Kyung-Su Kang<sup>1</sup>, Choongwan Koo, Han-Guk Ryu<sup>*</sup> (2022). Journal of Building Engineering, 133, 104034.
 * **<a href="">DEA 모형을 이용한 소재 분야 R&D 프로젝트 효율성 분석에 관한 연구</a>** `KCI`<br>최재홍<sup>1</sup>, 강경수<sup>2</sup>, 차병철<sup>*</sup> (2022). 대한설비관리학회지, 27(1), 63-73.
 * **<a href="https://www.sciencedirect.com/science/article/pii/S0926580521004854">Application of one-stage instance segmentation with weather conditions in surveillance cameras at construction sites</a>** `SCI`<br>Kyung-Su Kang<sup>1</sup>, Young-Woon Cho, Kyo-Hoon Jin, Young-Bin Kim, Han-Guk Ryu<sup>*</sup> (2022). Automation in Construction, 133, 104034.
 * **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002766264">건설 현장 CCTV 영상을 이용한 작업자와 중장비 추출 및 다중 객체 추적</a>** `KCI`<br>조영운<sup>1</sup>, 강경수, 손보식, 류한국<sup>*</sup> (2021). 한국건축시공학회지, 21(5), 397-408.
