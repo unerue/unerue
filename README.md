@@ -22,6 +22,12 @@
 
 ### Publications
 * **<a href="http://arxiv.org/abs/2208.14039">CAIR: Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal</a>** `Top-tier` <br>Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu<sup>*</sup> (2022). European Conference on Computer Vision (ECCV).
+
+* **<a href="">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites** `Under review`
+* **<a href="">Development of robust detector using the weather deep generative model for on-site monitoring system** `Under review`
+* **<a href="">One-stage anchor-based instance segmentation of construction entities for a real-time safety monitoring** `Under review`
+* **<a href="">Vision-based physical distancing monitoring method for preventing construction workers from infectious diseases** `Under review`
+
 * **<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710222005472">An interpretable machine learning approach for evaluating the feature importance affecting lost workdays at construction sites</a>** `SCI`<br>Kyung-Su Kang<sup>1</sup>, Choongwan Koo, Han-Guk Ryu<sup>*</sup> (2022). Journal of Building Engineering, 133, 104034.
 * **<a href="">DEA 모형을 이용한 소재 분야 R&D 프로젝트 효율성 분석에 관한 연구</a>** `KCI`<br>최재홍<sup>1</sup>, 강경수, 차병철<sup>*</sup> (2022). 대한설비관리학회지, 27(1), 63-73.
 * **<a href="https://www.sciencedirect.com/science/article/pii/S0926580521004854">Application of one-stage instance segmentation with weather conditions in surveillance cameras at construction sites</a>** `SCI`<br>Kyung-Su Kang<sup>1</sup>, Young-Woon Cho, Kyo-Hoon Jin, Young-Bin Kim, Han-Guk Ryu<sup>*</sup> (2022). Automation in Construction, 133, 104034.
