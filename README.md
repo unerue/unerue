@@ -52,6 +52,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * **2018년도 빅데이터 분석 준전문가 양성교육과정 강의**<br>창원대학교 LINC플러스사업단, 2018년 10월 4일부터 2018년 11월 22일까지(완료)
 
 ### Competitions
+* `Dacon` **[AI 양재 허브 인공지능 오픈소스 경진대회](https://dacon.io/competitions/official/235977/leaderboard)** 8등/124팀
 * `Dacon` **[월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/leaderboard)** 2등/165팀
 * `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/leaderboard/)** 4등/250팀
 * `Dacon` **[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701/leaderboard/)** 21등/156팀
