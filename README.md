@@ -72,3 +72,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * `Misc` **2020 인공지능 온라인 경진대회** - 과학기술정보통신부, Task 7: Object detection 3등(전체 합산 43등/400)
 * `Kaggle` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
 * `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
+  
+### Awards
+
+* 과학기술정보통신부 장관상
