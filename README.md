@@ -75,4 +75,4 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
   
 ### Awards
 
-* 과학기술정보통신부 장관상
+* DNA+드론 챌린지 지정공모2 구조물 드론(도로 크랙, 포트홀) 팜 드론(다품종 경작지 작물별 재배면적) 과학기술정보통신부 장관상
