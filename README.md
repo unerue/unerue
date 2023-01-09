@@ -21,7 +21,7 @@
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### Publications
-* **<a href="">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites**<br>JCDE
+* **<a href="">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites**<br>JCDE (2023)
 * **<a href="http://arxiv.org/abs/2208.14039">CAIR: Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal</a>** `Top-tier` <br>Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu<sup>*</sup> (2022). European Conference on Computer Vision (ECCV).
 * **<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710222005472">An interpretable machine learning approach for evaluating the feature importance affecting lost workdays at construction sites</a>** `SCI`<br>Kyung-Su Kang<sup>1</sup>, Choongwan Koo, Han-Guk Ryu<sup>*</sup> (2022). Journal of Building Engineering, 133, 104034.
 * **<a href="">DEA 모형을 이용한 소재 분야 R&D 프로젝트 효율성 분석에 관한 연구</a>** `KCI`<br>최재홍<sup>1</sup>, 강경수, 차병철<sup>*</sup> (2022). 대한설비관리학회지, 27(1), 63-73.
