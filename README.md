@@ -3,7 +3,7 @@
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
-**Technical stack:** `Python`, `JavaScript`, `Swift (Core ML)`, `C++`, `R`, `VBA`
+**Technical stack:** `Python (PyTorch)`, `JavaScript`, `Swift (Core ML)`, `C++`, `R`, `VBA`
 
 ### Projects
 * **경전철용 고성능·고내구 타이어의 안전성 강화 헬스 모니터링 기술 개발 및 실증**
