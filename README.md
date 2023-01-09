@@ -21,6 +21,7 @@
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### Publications
+* **<a href="">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites**<br>JCDE
 * **<a href="http://arxiv.org/abs/2208.14039">CAIR: Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal</a>** `Top-tier` <br>Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu<sup>*</sup> (2022). European Conference on Computer Vision (ECCV).
 * **<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710222005472">An interpretable machine learning approach for evaluating the feature importance affecting lost workdays at construction sites</a>** `SCI`<br>Kyung-Su Kang<sup>1</sup>, Choongwan Koo, Han-Guk Ryu<sup>*</sup> (2022). Journal of Building Engineering, 133, 104034.
 * **<a href="">DEA 모형을 이용한 소재 분야 R&D 프로젝트 효율성 분석에 관한 연구</a>** `KCI`<br>최재홍<sup>1</sup>, 강경수, 차병철<sup>*</sup> (2022). 대한설비관리학회지, 27(1), 63-73.
@@ -32,7 +33,6 @@
 * **<a href="https://doi.org/10.18032/kaaba.2019.32.4.597">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a>** `KCI`<br>강경수<sup>1*</sup>, 박세민 (2019). 대한경영학회지, 32(4), 597-615.
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a>** `KCI`<br>차병철<sup>1*</sup>, 강경수, 조경해 (2018). 대한설비관리학회지, 23(3), 19-26.
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a>** `KCI`<br>조권래<sup>1</sup>, 강경수, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
-* **<a href="">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites** `Under review`
 * **<a href="">Development of robust detector using the weather deep generative model for on-site monitoring system** `Under review`
 * **<a href="">One-stage anchor-based instance segmentation of construction entities for a real-time safety monitoring** `Under review`
 * **<a href="">Vision-based physical distancing monitoring method for preventing construction workers from infectious diseases** `Under review`
