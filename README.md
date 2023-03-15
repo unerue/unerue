@@ -1,6 +1,5 @@
 ### Kyung-Su Kang @unerue
 
-<img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 <a href="https://scholar.google.com/citations?user=7mqLr_YAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" /></a>
 <a href="https://orcid.org/0000-0002-6955-578X"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" /></a>
 
@@ -83,3 +82,5 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * 한국건축시공학회 봄학술발표대회 우수 학술상 (2022. 10.)
 * 한국건축시공학회 가을학술발표대회 우수 학술상 (2019. 10.)
 * 창원대학교 강의평가 우수교수상 (2016. 2.)
+
+  <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
