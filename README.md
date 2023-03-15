@@ -76,11 +76,10 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
   
 ### Awards
-
 * DNA+드론 챌린지 지정공모2 과학기술정보통신부 장관상 (2022. 11.)
 * DNA+드론 챌린지 지정공모1 포럼상 (2022. 11.)
 * 한국건축시공학회 봄학술발표대회 우수 학술상 (2022. 10.)
 * 한국건축시공학회 가을학술발표대회 우수 학술상 (2019. 10.)
 * 창원대학교 강의평가 우수교수상 (2016. 2.)
 
-  <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
+<img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
