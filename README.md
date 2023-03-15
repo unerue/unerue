@@ -1,7 +1,7 @@
 ### Kyung-Su Kang @unerue
 
 <img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
-<i class="ai ai-orcid" style="color:#A6CE39;"></i>
+<img alt="Orcid" src="https://img.shields.io/badge/Orcid-0000-0002-6955-578X-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
 **Technical stack:** `Python (PyTorch)`, `JavaScript (React, Electron)`, `Swift (Core ML)`, `C++`, `R`, `VBA`
