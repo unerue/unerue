@@ -1,7 +1,7 @@
 ### Kyung-Su Kang @unerue
 
-<a href="https://scholar.google.com/citations?user=7mqLr_YAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" style="height: 80%"/></a>
-<a href="https://orcid.org/0000-0002-6955-578X"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=7mqLr_YAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" height="20" /></a>
+<a href="https://orcid.org/0000-0002-6955-578X"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" height="20"/></a>
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
 **Technical stack:** `Python (PyTorch, TensorFlow)`, `JavaScript (React, Electron)`, `Swift (Core ML)`, `C++`, `R`, `VBA`
