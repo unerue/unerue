@@ -4,7 +4,7 @@
 <a href="https://orcid.org/0000-0002-6955-578X"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" /></a>
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
-**Technical stack:** `Python (PyTorch)`, `JavaScript (React, Electron)`, `Swift (Core ML)`, `C++`, `R`, `VBA`
+**Technical stack:** `Python (PyTorch, TensorFlow)`, `JavaScript (React, Electron)`, `Swift (Core ML)`, `C++`, `R`, `VBA`
 
 ### Projects
 * **수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구**<br>한국전자통신연구원, 2023년 1월 1일부터 12월 31일까지
