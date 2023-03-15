@@ -82,4 +82,4 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * 한국건축시공학회 가을학술발표대회 우수 학술상 (2019. 10.)
 * 창원대학교 강의평가 우수교수상 (2016. 2.)
 
-<img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-Kyungsu-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
+<img alt="Kyungsu" src="https://img.shields.io/badge/Created%20by-unerue-orange.svg?style=flat&colorA=E1523D&colorB=blue" />
