@@ -5,7 +5,7 @@
 <a href="https://unerue.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" height="20"/></a>
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
-**Technical stack:** `Python (PyTorch, TensorFlow)`, `JavaScript (React, Electron)`, `Swift (Core ML)`, `C++`, `R`, `VBA`
+**Technical stack:** `Python (PyTorch, TensorFlow, Qt)`, `JavaScript (React, Electron)`, `Swift (Core ML)`, `C++`, `R`, `VBA`
 
 ### Projects
 * **수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구**<br><i>한국전자통신연구원, 2023년 1월 1일부터 12월 31일까지</i>
