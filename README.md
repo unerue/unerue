@@ -41,10 +41,10 @@
 * **<a href="">Vision-based physical distancing monitoring method for preventing construction workers from infectious diseases** `Under review`
 
 ### Conferences
-* **딥러닝 기반 건설 작업자 마스크 착용 및 거리 두기 모니터링 시스템**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2022. 2). _한국CDE학회 동계학술발표대회_, 소노캄 제주
-* **아파트 건설 현장 작업자 특징 추출 및 다중 객체 추적 방법 제안** - `우수학술상`<br>_한국건축시공학회 봄학술발표대회_
-* **인스턴스 세그먼테이션 모형을 활용한 건설현장 작업자 안전모 인식 및 착용 판단 알고리즘 개발**<br>_한국CDE학회 동계학술발표대회_
-* **건설 현장 CCTV 영상에서 딥러닝을 이용한 사물 인식 기초 연구**<br>_한국건축시공학회 가을학술발표대회_
+* **딥러닝 기반 건설 작업자 마스크 착용 및 거리 두기 모니터링 시스템**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2022.02.09~12). _한국CDE학회 동계학술발표대회_, 소노캄 제주
+* **아파트 건설 현장 작업자 특징 추출 및 다중 객체 추적 방법 제안** - `우수학술상`<br>(2021.05.21~22). _한국건축시공학회 봄학술발표대회_, 제주 신화월드 랜딩리조트
+* **인스턴스 세그먼테이션 모형을 활용한 건설현장 작업자 안전모 인식 및 착용 판단 알고리즘 개발**<br>(2020.11.25~28). _한국CDE학회 동계학술발표대회_, 제주국제컨벤션센터
+* **건설 현장 CCTV 영상에서 딥러닝을 이용한 사물 인식 기초 연구**<br>(2020.11.12) _한국건축시공학회 가을학술발표대회_, 경주 블루원리조트
 * **Joint Replenishment and Delivery Scheduling under Dynamic Demand**<br>강경수<sup>1</sup>, 차병철<sup>*</sup> (2019. 11). _대한산업공학회 추계학술대회_. 서울대학교.
 * **건설현장 안전 지적 사항 분석** - `우수학술상`<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2019. 10). _한국건축시공학회 가을학술발표대회_. 한국교통대학교.
 * **Analysis of the Factors Influencing Fall Accidents in Korea**<br>Kyungsu Kang<sup>1</sup>, Hanguk Ryu<sup>*</sup> (2019. 7). _International Conference on
