@@ -24,7 +24,7 @@
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### Publications
-* **<a href="">딥러닝 기반 픽셀 단위 콘크리트 벽체 균열 검출 방법**<br> (2023.04). 한국건축시공학회지.
+* **<a href="">딥러닝 기반 픽셀 단위 콘크리트 벽체 균열 검출 방법**<br> 강경수, 류한국 (2023.04). 한국건축시공학회지.
 * `6.167 (Q1)` **<a href="https://doi.org/10.1093/jcde/qwad019">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites**<br> (2023). Journal of Computational Design and Engineering.
 * `Top-tier` **<a href="https://doi.org/10.1007/978-3-031-25063-7_45">CAIR: Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal</a>**  <br>Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu<sup>*</sup> (2022). European Conference on Computer Vision (ECCV).
 * `7.144 (Q1/10%)` **<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710222005472">An interpretable machine learning approach for evaluating the feature importance affecting lost workdays at construction sites</a>**<br>Kyung-Su Kang<sup>1</sup>, Choongwan Koo, Han-Guk Ryu<sup>*</sup> (2022). Journal of Building Engineering, 133, 104034.
