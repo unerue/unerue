@@ -24,6 +24,7 @@
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### Publications
+* `8.5 (Q1/10%)` **Development of robust detector using the weather deep generative model for outdoor monitoring system**<br> Kyo-Hoon Jin, Kyung-Su Kang, Baek-Kyun Shin, June-Hyoung Kwon, Soo-Jin Jang, Young-Bin Kim, Han-Guk Ryu<sup>*</sup> (2023). Expert Systems with Applications.
 * **<a href="https://doi.org/10.5345/JKIBC.2023.23.2.197">딥러닝 기반 픽셀 단위 콘크리트 벽체 균열 검출 방법**<br> 강경수, 류한국<sup>*</sup> (2023-04). 한국건축시공학회지, 23(2), 197-207.
 * `6.167 (Q1)` **<a href="https://doi.org/10.1093/jcde/qwad019">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites**<br>Yeo-Reum Lee, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>*</sup>, Han-Guk Ryu<sup>*</sup> (2023-03). Journal of Computational Design and Engineering, 10(2), 905-917.
 * `Top-tier` **<a href="https://doi.org/10.1007/978-3-031-25063-7_45">CAIR: Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal</a>**  <br>Woon-Ha Yeo, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu<sup>*</sup> (2023-02-13). ECCV 2022 Workshops. ECCV 2022. Lecture Notes in Computer Science, 13802.
