@@ -7,7 +7,7 @@
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
 **Technical stack:** `PyTorch, TensorFlow, Qt`, `React, Electron`, `Core ML`, `C++`, `R`, `VBA`
 
-### Projects
+### ⚙ Projects
 * **수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구**<br><i>한국전자통신연구원, 2023년 1월 1일부터 12월 31일까지</i>
 * **경전철용 고성능·고내구 타이어의 안전성 강화 헬스 모니터링 기술 개발 및 실증**
 * **딥러닝 기반 테라헤르츠 이미지 해상도 및 태그 인식률 향상 기술 개발**
