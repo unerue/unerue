@@ -23,7 +23,7 @@
 * **다품목 일괄구매 공급사슬 재고관리모형 개발**<br>창원대학교, 2018년 9월 1일부터 2019년 12월 31일까지(완료)
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
-### Publications
+### 📝 Publications
 * **Development of robust detector using the weather deep generative model for outdoor monitoring system**<br> Kyo-Hoon Jin, Kyung-Su Kang, Baek-Kyun Shin, June-Hyoung Kwon, Soo-Jin Jang, Young-Bin Kim, Han-Guk Ryu<sup>*</sup> (2023). Expert Systems with Applications.<br>Impact Factor: 8.5 (Q1/10%)
 * **<a href="https://doi.org/10.5345/JKIBC.2023.23.2.197">딥러닝 기반 픽셀 단위 콘크리트 벽체 균열 검출 방법**<br> 강경수, 류한국<sup>*</sup> (2023-04). 한국건축시공학회지, 23(2), 197-207.
 * **<a href="https://doi.org/10.1093/jcde/qwad019">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites**<br>Yeo-Reum Lee, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>*</sup> (2023-03). Journal of Computational Design and Engineering, 10(2), 905-917.<br>Impact Factor: 6.1 (Q1)
