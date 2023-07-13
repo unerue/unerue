@@ -60,7 +60,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * **2021년학년도 인공지능 SW특강 - 게임으로 배우는 객체 지향 프로그래밍**<br>소프트웨어중심대학사업단, 2021년 12월 22일부터 30일까지
 * **2018년도 빅데이터 분석 준전문가 양성교육과정 강의**<br>창원대학교 LINC플러스사업단, 2018년 10월 4일부터 2018년 11월 22일까지(완료)
 
-### Competitions
+### 🏆 Competitions
 * `Dacon` **[AI 양재 허브 인공지능 오픈소스 경진대회](https://dacon.io/competitions/official/235977/leaderboard)** 8등/124팀
 * `Dacon` **[월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/leaderboard)** 2등/165팀
 * `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/leaderboard/)** 4등/250팀
@@ -78,7 +78,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * `Kaggle` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
 * `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
   
-### Awards
+### 🏅 Awards
 * DNA+드론 챌린지 지정공모2 과학기술정보통신부 장관상 (2022. 11.)
 * DNA+드론 챌린지 지정공모1 포럼상 (2022. 11.)
 * 한국건축시공학회 봄학술발표대회 우수 학술상 (2022. 10.)
