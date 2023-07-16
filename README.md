@@ -5,7 +5,7 @@
 <a href="https://unerue.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" height="20"/></a>
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
-**Technical stack:** `PyTorch, TensorFlow, Qt`, `React, Electron`, `Core ML`, `C++`, `R`, `VBA`
+**Technical stack:** `PyTorch, TensorFlow, Qt, FastAPI`, `React, Electron`, `Core ML`, `C++`, `R`, `VBA`
 
 Read this in other languages: [한국어](https://github.com/unerue/unerue/blob/main/README.kr.md)
 
