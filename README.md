@@ -7,7 +7,7 @@
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
 **Technical stack:** `PyTorch, TensorFlow, Qt, FastAPI`, `React, Electron`, `Core ML`, `C++`, `R`, `VBA`
 
-Read this in other languages: [한국어](https://github.com/unerue/unerue/blob/main/README.kr.md)
+Read this in other languages: [English](https://github.com/unerue/unerue/blob/main/README.kr.md)
 
 ### ⚙ Projects
 * **수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구**<br><i>한국전자통신연구원, 2023년 1월 1일부터 12월 31일까지</i>
