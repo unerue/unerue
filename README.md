@@ -40,17 +40,17 @@ Read this in other languages: [English](https://github.com/unerue/unerue/blob/ma
 * **<a href="https://doi.org/10.18032/kaaba.2019.32.4.597">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a>** `KCI`<br>강경수<sup>*</sup>, 박세민 (2019). 대한경영학회지, 32(4), 597-615.
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수, 조경해 (2018). 대한설비관리학회지, 23(3), 19-26.
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a>** `KCI`<br>조권래, 강경수, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
-* **<a href="">One-stage anchor-based instance segmentation of construction entities for a real-time safety monitoring</a>** `Under review`
-* **<a href="">Vision-based physical distancing monitoring method for preventing construction workers from infectious diseases</a>** `Under review`
-* **<a href="">Real-time embedded system for autonomous drones detecting small object on 4K aerial images</a>** `Under review`
-* **<a href="">Development of a robust non-heatmap-based infant pose estimation model using RGB/Depth sensors</a>** `Under review`
-* **<a href="">A study on dataset creation using a generative model for infant detector learning in a low-light environment</a>** `Under review`
-* **<a href="">Joint replenishment and delivery scheduling problem under dynamic demand</a>** `Under review`
-* **<a href="">A new optimized algorithm to solve the joint replenishment and delivery scheduling problem</a>** `Under review`
-* **<a href="">An optimized maintenance scheduling of railway power distribution lines</a>** `Under review`
+* `Under review` **<a href="">One-stage anchor-based instance segmentation of construction entities for a real-time safety monitoring</a>**
+* `Under review` **<a href="">Vision-based physical distancing monitoring method for preventing construction workers from infectious diseases</a>** 
+* `Under review` **<a href="">Real-time embedded system for autonomous drones detecting small object on 4K aerial images</a>**
+* `Under review` **<a href="">An optimized maintenance scheduling of railway power distribution lines</a>**
+* `Under review` **<a href="">Joint replenishment and delivery scheduling problem under dynamic demand</a>**
+* **<a href="">Development of a robust non-heatmap-based infant pose estimation model using RGB/Depth sensors</a>**
+* **<a href="">A study on dataset creation using a generative model for infant detector learning in a low-light environment</a>**
+* **<a href="">A new optimized algorithm to solve the joint replenishment and delivery scheduling problem</a>**
 * **<a href="">Optimization of Rubber Wheel Tire Maintenance Scheduling for Automated Guided-Way Trains/Medium-Capacity Rail System</a>** `Under review`
-* **<a href="">Extraction of keyword and word similarity based on unsupervised learning using topic modeling and word embedding: A Case study on safety violation warning reports</a>** `Under review`
-* **<a href="">Integrated multi-task pixel-based concrete crack recognition with high resolution</a>** `Under review`
+* **<a href="">Extraction of keyword and word similarity based on unsupervised learning using topic modeling and word embedding: A Case study on safety violation warning reports</a>**
+* **<a href="">Integrated multi-task pixel-based concrete crack recognition with high resolution</a>**
 
 ### Conferences
 * **딥러닝 기반 건설 작업자 마스크 착용 및 거리 두기 모니터링 시스템**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2022.02.09~12). _한국CDE학회 동계학술발표대회_, 소노캄 제주
