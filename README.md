@@ -48,7 +48,7 @@ Read this in other languages: [English](https://github.com/unerue/unerue/blob/ma
 * **<a href="">Development of a robust non-heatmap-based infant pose estimation model using RGB/Depth sensors</a>**
 * **<a href="">A study on dataset creation using a generative model for infant detector learning in a low-light environment</a>**
 * **<a href="">A new optimized algorithm to solve the joint replenishment and delivery scheduling problem</a>**
-* **<a href="">Optimization of Rubber Wheel Tire Maintenance Scheduling for Automated Guided-Way Trains/Medium-Capacity Rail System</a>** `Under review`
+* **<a href="">Optimization of Rubber Wheel Tire Maintenance Scheduling for Automated Guided-Way Trains/Medium-Capacity Rail System</a>**
 * **<a href="">Extraction of keyword and word similarity based on unsupervised learning using topic modeling and word embedding: A Case study on safety violation warning reports</a>**
 * **<a href="">Integrated multi-task pixel-based concrete crack recognition with high resolution</a>**
 
