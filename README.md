@@ -1,4 +1,4 @@
-### Kyung-Su Kang @unerue
+![image](https://github.com/unerue/unerue/assets/20223517/99e7b0dd-61bf-43c6-85c4-70c39e419a95)### Kyung-Su Kang @unerue
 
 <a href="https://scholar.google.com/citations?user=7mqLr_YAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" height="20" /></a>
 <a href="https://orcid.org/0000-0002-6955-578X"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" height="20"/></a>
@@ -53,6 +53,10 @@ Read this in other languages: [English](https://github.com/unerue/unerue/blob/ma
 * **<a href="">Integrated multi-task pixel-based concrete crack recognition with high resolution</a>**
 
 ### Conferences
+* **생성형 인공지능을 이용한 건설현장 이미지 및텍스트 분석** (2024. 1. 29~2. 2) _한국CDE학회 동계학술대회_
+* **트랜스포머 기반 초고해상도 영상의 콘크리트 외벽 균열탐지 방안** (2024. 1. 29~2. 2) _한국CDE학회 동계학술대회_
+* **Optimization of Rubber Wheel Tire Maintenance Scheduling for Automated Guided-Way Trains/Medium-Capacity Rail System**<br>Kyung-Su Kang, Jong-Woon Kim, Byung-Cheol Cha (Oct. 30-Nov. 2, 2023) CIE50: The 50th International Conference on Computers & Industrial Engineering. American University of Sharjah, Sharjah, UAE.
+* **Low-Power Embedded System for Deep Learning-based Object Detection and Tracking in River Systems**<br>Kyung-Su Kang, Han-Guk Ryu (Oct. 30-Nov. 2, 2023) CIE50: The 50th International Conference on Computers & Industrial Engineering. American University of Sharjah, Sharjah, UAE.
 * **딥러닝 기반 건설 작업자 마스크 착용 및 거리 두기 모니터링 시스템**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2022.02.09~12). _한국CDE학회 동계학술발표대회_, 소노캄 제주
 * **아파트 건설 현장 작업자 특징 추출 및 다중 객체 추적 방법 제안** - `우수학술상`<br>(2021.05.21~22). _한국건축시공학회 봄학술발표대회_, 제주 신화월드 랜딩리조트
 * **인스턴스 세그먼테이션 모형을 활용한 건설현장 작업자 안전모 인식 및 착용 판단 알고리즘 개발**<br>(2020.11.25~28). _한국CDE학회 동계학술발표대회_, 제주국제컨벤션센터
