@@ -1,5 +1,3 @@
-![image](https://github.com/unerue/unerue/assets/20223517/99e7b0dd-61bf-43c6-85c4-70c39e419a95)
-
 ### Kyung-Su Kang @unerue
 
 <a href="https://scholar.google.com/citations?user=7mqLr_YAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" height="20" /></a>
