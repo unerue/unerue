@@ -26,7 +26,8 @@ Read this in other languages: [English](https://github.com/unerue/unerue/blob/ma
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### 📝 Publications
-* **<a href="">Automated recognition of construction worker activities using multimodal decision-level fusion</a>**<br>Y Gong, J Seo, KS Kang, M Shi. (2025). Automation in Construction 172, 106032
+* `10.3 (Q1/5%)` **<a href="">Automated recognition of construction worker activities using multimodal decision-level fusion</a>**<br>Y Gong, J Seo, KS Kang, M Shi. (2025). Automation in Construction 172, 106032
+* **<a href="">A non-local based microcrack segmentation model optimized for effective high resolution and low-power devices</a>**<br>KS Kang, JO Seo, HG Ryu. (2024). Journal of Building Engineering 96, 110650<br>Impact Factor: 7.1 (Q1/10%)
 * **<a href="https://doi.org/10.1016/j.eswa.2023.120984">Development of robust detector using the weather deep generative model for outdoor monitoring system</a>**<br> Kyo-Hoon Jin, Kyung-Su Kang, Baek-Kyun Shin, June-Hyoung Kwon, Soo-Jin Jang, Young-Bin Kim, Han-Guk Ryu<sup>*</sup> (2023). Expert Systems with Applications.<br>Impact Factor: 8.5 (Q1/10%)
 * **<a href="https://doi.org/10.5345/JKIBC.2023.23.2.197">딥러닝 기반 픽셀 단위 콘크리트 벽체 균열 검출 방법</a>**<br> 강경수, 류한국<sup>*</sup> (2023-04). 한국건축시공학회지, 23(2), 197-207.
 * `10.3 (Q1/5%)` **<a href="https://doi.org/10.1093/jcde/qwad019">Deep Learning-based Framework for Monitoring wearing Personal Protective Equipment on Construction Sites</a>**<br>Yeo-Reum Lee, Seung-Hwan Jung, Kyung-Su Kang, Han-Cheol Ryu<sup>\*</sup>, Han-Guk Ryu<sup>*</sup> (2023-03). Journal of Computational Design and Engineering, 10(2), 905-917.<br>Impact Factor: 6.1 (Q1)
