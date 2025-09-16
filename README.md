@@ -105,7 +105,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * 한국건축시공학회 가을학술발표대회 우수 학술상 (2019. 10.)
 * 창원대학교 강의평가 우수교수상 (2016. 2.)
 
-
+### Experience
 * 현) 에이리스 CTO
 * 전) 삼육대학교 건축학과 조교수
 
