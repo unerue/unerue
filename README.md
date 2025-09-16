@@ -1,13 +1,13 @@
 ### Michael Kang @unerue
 
+공학박사수료/경영학박사
+
 <a href="https://scholar.google.com/citations?user=7mqLr_YAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" height="20" /></a>
 <a href="https://orcid.org/0000-0002-6955-578X"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" height="20"/></a>
 <a href="https://unerue.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" height="20"/></a>
 
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
 **Technical stack:** `PyTorch, TensorFlow, Qt, FastAPI`, `React, Electron`, `Core ML`, `C++`, `R`, `VBA`
-
-Read this in other languages: [English](https://github.com/unerue/unerue/blob/main/README.kr.md)
 
 ### ⚙ Projects
 * **수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구**<br>연구책임자, <i>한국전자통신연구원, 2023년 1월 1일부터 12월 31일까지</i>
@@ -104,3 +104,9 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * 한국건축시공학회 봄학술발표대회 우수 학술상 (2022. 10.)
 * 한국건축시공학회 가을학술발표대회 우수 학술상 (2019. 10.)
 * 창원대학교 강의평가 우수교수상 (2016. 2.)
+
+
+* 현) 에이리스 CTO
+* 전) 삼육대학교 건축학과 조교수
+
+Read this in other languages: [English](https://github.com/unerue/unerue/blob/main/README.kr.md)
