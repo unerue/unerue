@@ -56,7 +56,6 @@
 * **<a href="">Extraction of keyword and word similarity based on unsupervised learning using topic modeling and word embedding: A Case study on safety violation warning reports</a>**
 * **<a href="">Integrated multi-task pixel-based concrete crack recognition with high resolution</a>**
 
-
 ### Conferences
 * **생성형 인공지능을 이용한 건설현장 이미지 및텍스트 분석** (2024. 1. 29~2. 2) _한국CDE학회 동계학술대회_
 * **트랜스포머 기반 초고해상도 영상의 콘크리트 외벽 균열탐지 방안** (2024. 1. 29~2. 2) _한국CDE학회 동계학술대회_
@@ -72,6 +71,15 @@
 Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * **인체신호 감지 센서를 활용한 건설작업자 안전관리 방안**<br>강진우<sup>1</sup>, 강경수<sup>2</sup>, 류한국<sup>*</sup> (2019. 01. 25), _한국CDE학회 동계학술대회_
 * **랜덤 포레스트 기법을 이용한 건설현장 안전재해 예측 모형 기초 연구**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2018. 11). _한국건축시공학회 추계학술발표대회_. 서울과학기술대학교.
+
+### Intellectual Property Rights
+
+* `특허` 딥러닝 기반 안전보호구 착용 상태 판단 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체
+* `특허` 딥러닝 기반 컴퓨터 비전 기술을 이용한 영유아 이상 징후 모니터링 시스템. 10-2024-0111377. 2024년 07월 17일
+* `컴퓨터프로그램등록` 연구행정지원시스템 이지알앤디. C-2025-034022호. 2025년 08월 07일
+* `컴퓨터프로그램등록` 인공지능 기반 영유아 운동발달 분석 프로그램. C-2024-055146호. 2024년 11월 29일
+* `컴퓨터프로그램등록` 인공지능 기반 시설물 외벽 균열 탐지 및 손상 정도 분석 솔루션. C-2024-047324호. 2024년 11월 04일
+* `컴퓨터프로그램등록` 3D(3차원) 깊이 비디오 실시간 전송 및 녹화 프로그램. 제C-2024-048977호. 2024년 04월 19일
 
 ### Lectures
 * **<a href="https://www.syu.ac.kr/blog/sw%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99%EC%82%AC%EC%97%85%EB%8B%A8-2022-1-sw-step-up-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8A%B9%EA%B0%95/">2022년학년도 인공지능 SW특강 - Kaggle로 배우는 머신러닝 문제해결 전략</a>**<br>소프트웨어중심대학사업단, 2022년 8월 22일부터 26일까지
