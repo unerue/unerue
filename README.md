@@ -27,6 +27,7 @@
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
 ### 📝 Publications
+
 * `10.3 (Q1/5%)` **<a href="https://doi.org/10.1016/j.autcon.2025.106032">Automated recognition of construction worker activities using multimodal decision-level fusion</a>**<br>Y Gong, J Seo, KS Kang, M Shi. (2025). Automation in Construction 172, 106032
 * **<a href="https://doi.org/10.1016/j.jobe.2024.110650">A non-local based microcrack segmentation model optimized for effective high resolution and low-power devices</a>**<br>KS Kang, JO Seo, HG Ryu. (2024). Journal of Building Engineering 96, 110650<br>`Impact Factor: 7.1 (Q1/10%)`
 * `SCOPUS` **<a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85184104181&origin=resultslist&sort=plf-f&src=s&sid=ba1464129a0a43f5be94de2c2ecce197&sot=b&sdt=b&s=TITLE%28low-power+AND+embedded+AND+system%29&sl=26&sessionSearchId=ba1464129a0a43f5be94de2c2ecce197&relpos=6">Low-Power Embedded System for Deep Learning-based Object Detection and Tracking in River Systems</a>**, Proceedings of International Conference on Computers and Industrial Engineering, CIEVolume 1, Pages 134 - 1392023 50th International Conference on Computers and Industrial Engineering: Sustainable Digital Transformation, CIE 2023Sharjah30 October 2023through 2 November 2023Code 196710
@@ -45,17 +46,18 @@
 * **<a href="https://doi.org/10.18032/kaaba.2019.32.4.597">웹 크롤링과 기계학습 기법을 이용한 경영학 분야 KCI 저널의 주제어 분석</a>** `KCI`<br>강경수<sup>*</sup>, 박세민 (2019). 대한경영학회지, 32(4), 597-615.
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수, 조경해 (2018). 대한설비관리학회지, 23(3), 19-26.
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a>** `KCI`<br>조권래, 강경수, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
-* `Under review` **<a href="">One-stage anchor-based instance segmentation of construction entities for a real-time safety monitoring</a>**
-* `Under review` **<a href="">Vision-based physical distancing monitoring method for preventing construction workers from infectious diseases</a>** 
-* `Under review` **<a href="">Real-time embedded system for autonomous drones detecting small object on 4K aerial images</a>**
-* `Under review` **<a href="">An optimized maintenance scheduling of railway power distribution lines</a>**
-* `Under review` **<a href="">Joint replenishment and delivery scheduling problem under dynamic demand</a>**
-* **<a href="">Development of a robust non-heatmap-based infant pose estimation model using RGB/Depth sensors</a>**
-* **<a href="">A study on dataset creation using a generative model for infant detector learning in a low-light environment</a>**
-* **<a href="">A new optimized algorithm to solve the joint replenishment and delivery scheduling problem</a>**
-* **<a href="">Optimization of Rubber Wheel Tire Maintenance Scheduling for Automated Guided-Way Trains/Medium-Capacity Rail System</a>**
-* **<a href="">Extraction of keyword and word similarity based on unsupervised learning using topic modeling and word embedding: A Case study on safety violation warning reports</a>**
-* **<a href="">Integrated multi-task pixel-based concrete crack recognition with high resolution</a>**
+
+### Intellectual Property Rights
+
+* `특허등록` <a href="https://doi.org/10.8080/1020220119600">딥러닝 기반 감염병 예방 시스템</a>.<br>10-2905686(2025.12.24)·10-2022-0119600(2022.09.21). 류한국, 강경수
+* `특허등록` <a href="https://doi.org/10.8080/1020230003112">딥러닝 기반 컴퓨터 비전 기술을 이용한 영유아 이상 징후 모니터링 시스템</a>.<br>10-2906909(2025.12.29)·10-2023-0003112(2023.01.09). 이병희, 강경수, 안정애
+* `특허등록` <a href="https://doi.org/10.8080/1020220119602">딥러닝 기반 감염병 예방 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체</a>.<br>10-2905633(2025.12.24)·10-2022-0119602(2022.09.21). 류한국, 강경수, 류한철, 정승환, 김영일
+* `특허등록` <a href="https://doi.org/10.8080/1020220119603">딥러닝 기반 안전보호구 착용 상태 판단 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체</a>.<br>10-2874570(2025.10.17)·10-2022-0119603(2022.09.21). 류한국, 강경수, 류한철, 이여름, 김영일
+* `컴퓨터프로그램등록` 이지플로: AI 기반 연구행정 업무 분석 및 자동화 시스템.<br> C-2026-005658(2026.01.28). 주식회사 에이리스
+* `컴퓨터프로그램등록` 연구행정지원시스템 이지알앤디. C-2025-034022(2025.08.29).<br> 이상민, 윤성훈, 강경수, 오왕택, 김민규
+* `컴퓨터프로그램등록` 인공지능 기반 영유아 운동발달 분석 프로그램. C-2024-055146(2024.12.24). 삼육대학교 산학협력단
+* `컴퓨터프로그램등록` 인공지능 기반 시설물 외벽 균열 탐지 및 손상 정도 분석 솔루션.<br> C-2024-047324(2024.11.26). 삼육대학교 산학협력단
+* `컴퓨터프로그램등록` 3D(3차원) 깊이 비디오 실시간 전송 및 녹화 프로그램.<br> C-2024-048977(2024.11.29). 삼육대학교 산학협력
 
 ### Conferences
 * **생성형 인공지능을 이용한 건설현장 이미지 및텍스트 분석** (2024. 1. 29~2. 2) _한국CDE학회 동계학술대회_
@@ -72,18 +74,6 @@
 Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * **인체신호 감지 센서를 활용한 건설작업자 안전관리 방안**<br>강진우<sup>1</sup>, 강경수<sup>2</sup>, 류한국<sup>*</sup> (2019. 01. 25), _한국CDE학회 동계학술대회_
 * **랜덤 포레스트 기법을 이용한 건설현장 안전재해 예측 모형 기초 연구**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2018. 11). _한국건축시공학회 추계학술발표대회_. 서울과학기술대학교.
-
-### Intellectual Property Rights
-
-* `특허등록` <a href="https://doi.org/10.8080/1020220119600">딥러닝 기반 감염병 예방 시스템</a>.<br>10-2905686(2025.12.24)·10-2022-0119600(2022.09.21). 류한국, 강경수
-* `특허등록` <a href="https://doi.org/10.8080/1020230003112">딥러닝 기반 컴퓨터 비전 기술을 이용한 영유아 이상 징후 모니터링 시스템</a>.<br>10-2906909(2025.12.29)·10-2023-0003112(2023.01.09). 이병희, 강경수, 안정애
-* `특허등록` <a href="https://doi.org/10.8080/1020220119602">딥러닝 기반 감염병 예방 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체</a>.<br>10-2905633(2025.12.24)·10-2022-0119602(2022.09.21). 류한국, 강경수, 류한철, 정승환, 김영일
-* `특허등록` <a href="https://doi.org/10.8080/1020220119603">딥러닝 기반 안전보호구 착용 상태 판단 방법 및 이를 컴퓨터에서 실행하기 위한 컴퓨터 프로그램이 기록된, 컴퓨터 판독 가능한 기록 매체</a>.<br>10-2874570(2025.10.17)·10-2022-0119603(2022.09.21). 류한국, 강경수, 류한철, 이여름, 김영일
-* `컴퓨터프로그램등록` <a href="">이지플로: AI 기반 연구행정 업무 분석 및 자동화 시스템</a>. C-2026-005658(2026.01.28). 주식회사 에이리스
-* `컴퓨터프로그램등록` <a href="">연구행정지원시스템 이지알앤디</a>. C-2025-034022(2025.08.29). 이상민, 윤성훈, 강경수, 오왕택, 김민규
-* `컴퓨터프로그램등록` <a href="">인공지능 기반 영유아 운동발달 분석 프로그램</a>. C-2024-055146(2024.12.24). 삼육대학교 산학협력단
-* `컴퓨터프로그램등록` <a href="">인공지능 기반 시설물 외벽 균열 탐지 및 손상 정도 분석 솔루션</a>. C-2024-047324(2024.11.26). 삼육대학교 산학협력단
-* `컴퓨터프로그램등록` <a href="">3D(3차원) 깊이 비디오 실시간 전송 및 녹화 프로그램</a>. C-2024-048977(2024.11.29). 삼육대학교 산학협력
 
 ### Lectures
 * **<a href="https://www.syu.ac.kr/blog/sw%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99%EC%82%AC%EC%97%85%EB%8B%A8-2022-1-sw-step-up-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8A%B9%EA%B0%95/">2022년학년도 인공지능 SW특강 - Kaggle로 배우는 머신러닝 문제해결 전략</a>**<br>소프트웨어중심대학사업단, 2022년 8월 22일부터 26일까지
