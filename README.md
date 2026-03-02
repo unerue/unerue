@@ -10,6 +10,7 @@
 **Technical stack:** `PyTorch, TensorFlow, Qt, FastAPI`, `React, Electron`, `Core ML`, `C++`, `R`, `VBA`
 
 ### ⚙ Projects
+
 * **2025년 예비창업패키지**<br>연구책임자, <i>한국전자통신연구원, 2025년 1월 1일부터 12월 31일까지</i>
 * **수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구**<br>연구책임자, <i>한국전자통신연구원, 2023년 1월 1일부터 12월 31일까지</i>
 * **경전철용 고성능·고내구 타이어의 안전성 강화 헬스 모니터링 기술 개발 및 실증**<br>연구책임자
@@ -28,6 +29,7 @@
 
 ### 📝 Publications
 
+* **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003275060">드론 영상 분석과 시계열 모델을 활용한 노후 외벽 결함 자동 진단 및 성장 예측 시스템</a>**<br>강경수, 손보식, 류한국 (2025). 한국건축시공학회지, 25(6), 701-712. http://doi.org/10.5345/JKIBC.2025.25.6.701<br>`KCI` 
 * **<a href="https://doi.org/10.1016/j.autcon.2025.106032">Automated recognition of construction worker activities using multimodal decision-level fusion</a>**<br>`10.3 (Q1/5%)` Y Gong, J Seo, KS Kang, M Shi. (2025). Automation in Construction 172, 106032
 * **<a href="https://doi.org/10.1016/j.jobe.2024.110650">A non-local based microcrack segmentation model optimized for effective high resolution and low-power devices</a>**<br>KS Kang, JO Seo, HG Ryu. (2024). Journal of Building Engineering 96, 110650<br>`Impact Factor: 7.1 (Q1/10%)`
 * **<a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85184104181&origin=resultslist&sort=plf-f&src=s&sid=ba1464129a0a43f5be94de2c2ecce197&sot=b&sdt=b&s=TITLE%28low-power+AND+embedded+AND+system%29&sl=26&sessionSearchId=ba1464129a0a43f5be94de2c2ecce197&relpos=6">Low-Power Embedded System for Deep Learning-based Object Detection and Tracking in River Systems</a>**<br>`SCOPUS` Proceedings of International Conference on Computers and Industrial Engineering, CIEVolume 1, Pages 134 - 1392023 50th International Conference on Computers and Industrial Engineering: Sustainable Digital Transformation, CIE 2023Sharjah30 October 2023through 2 November 2023Code 196710
