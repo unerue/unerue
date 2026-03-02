@@ -29,6 +29,7 @@
 
 ### 📝 논문
 
+* **<a href="">Mixed-language expressions in construction safety violation and warning reports: A domain-specific framework for normalization and safety analytics</a>**<br>Kyung-Su Kang, Sang-Min Lee, Han-Guk Ryu (2026). Work: A Journal of Prevention, Assessment and Rehabilitation.<br>`SSCI` `1.5 (Q3)`
 * **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003275060">드론 영상 분석과 시계열 모델을 활용한 노후 외벽 결함 자동 진단 및 성장 예측 시스템</a>**<br>강경수, 손보식, 류한국 (2025.12). 한국건축시공학회지, 25(6), 701-712. 1598-2033.<br>`KCI`
 * **<a href="https://doi.org/10.26862/jkpts.2025.09.32.3.117">AI-based Fall Detection and Pressure Ulcer Monitoring System forLong-term Care Facility Residents: The Feasibility Study</a>**<br>Dongki Hwang, Jungae An, Kyung-Su Kang, Jaewon Lee, Sieun Leen, Yoonwoo Choi, Yungi Jeong, Jaein Han, Byoung-hee Lee (2025.02.14). Journal of Korean Physical Therapy Science, 32(3), 117-126.<br>`KCI`
 * **<a href="">드론 영상 분석과 시계열 모델을 활용한 노후 외벽 결함 자동 진단 및 성장 예측 시스템</a>**<br>강경수, 손보식, 류한국 (2025.12). 한국건축시공학회지, 25(6), 701-712. 1598-2033.<br>`KCI`
