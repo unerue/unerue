@@ -9,7 +9,7 @@
 **Interests:** `Operations Research`, `Metaheuristics`, `Computer Vision`, `Lightweight and Optimization` <br>
 **Technical stack:** `PyTorch, TensorFlow, Qt, FastAPI`, `React, Electron`, `Core ML`, `C++`, `R`, `VBA`
 
-### ⚙ Projects
+### ⚙ 연구과제
 
 * **2025년 예비창업패키지**<br>연구책임자, <i>한국전자통신연구원, 2025년 1월 1일부터 12월 31일까지</i>
 * **수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구**<br>연구책임자, <i>한국전자통신연구원, 2023년 1월 1일부터 12월 31일까지</i>
@@ -27,7 +27,7 @@
 * **다품목 일괄구매 공급사슬 재고관리모형 개발**<br>창원대학교, 2018년 9월 1일부터 2019년 12월 31일까지(완료)
 * **중소기업 생산 시스템 컨설팅**<br>창원대학교/주식회사 KIM
 
-### 📝 Publications
+### 📝 논문
 
 * **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003275060">드론 영상 분석과 시계열 모델을 활용한 노후 외벽 결함 자동 진단 및 성장 예측 시스템</a>**<br>강경수, 손보식, 류한국 (2025.12). 한국건축시공학회지, 25(6), 701-712. 1598-2033.<br>`KCI`
 * **<a href="https://doi.org/10.26862/jkpts.2025.09.32.3.117">AI-based Fall Detection and Pressure Ulcer Monitoring System forLong-term Care Facility Residents: The Feasibility Study</a>**<br>Dongki Hwang, Jungae An, Kyung-Su Kang, Jaewon Lee, Sieun Leen, Yoonwoo Choi, Yungi Jeong, Jaein Han, Byoung-hee Lee (2025.02.14). Journal of Korean Physical Therapy Science, 32(3), 117-126.<br>`KCI`
@@ -51,7 +51,7 @@
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3634070">복합운송수단의 리드타임을 고려한 다품목 동적 로트크기 결정에 관한 연구</a>** `KCI`<br>차병철<sup>*</sup>, 강경수, 조경해 (2018). 대한설비관리학회지, 23(3), 19-26.
 * **<a href="http://www.papersearch.net/thesis/article.asp?key=3568990">중소규모 식품제조업체의 HACCP 선행요건 수행도 평가에 관한 연구</a>** `KCI`<br>조권래, 강경수, 차병철<sup>*</sup> (2017). 대한설비관리학회지, 22(4), 25-37.
 
-### Intellectual Property Rights
+### 지식재산권
 
 * <a href="https://doi.org/10.8080/1020220119600">딥러닝 기반 감염병 예방 시스템</a>.<br>10-2905686(2025.12.24)·10-2022-0119600(2022.09.21). 류한국, 강경수<br>`특허등록`
 * <a href="https://doi.org/10.8080/1020230003112">딥러닝 기반 컴퓨터 비전 기술을 이용한 영유아 이상 징후 모니터링 시스템</a>.<br>10-2906909(2025.12.29)·10-2023-0003112(2023.01.09). 이병희, 강경수, 안정애<br>`특허등록` 
@@ -63,7 +63,8 @@
 * <a href="">인공지능 기반 시설물 외벽 균열 탐지 및 손상 정도 분석 솔루션</a><br>`컴퓨터프로그램등록` C-2024-047324(2024.11.26). 삼육대학교 산학협력단
 * <a href="">3D(3차원) 깊이 비디오 실시간 전송 및 녹화 프로그램</a><br>`컴퓨터프로그램등록` C-2024-048977(2024.11.29). 삼육대학교 산학협력
 
-### Conferences
+### 학술발표대회
+
 * **생성형 인공지능을 이용한 건설현장 이미지 및텍스트 분석** (2024. 1. 29~2. 2) _한국CDE학회 동계학술대회_
 * **트랜스포머 기반 초고해상도 영상의 콘크리트 외벽 균열탐지 방안** (2024. 1. 29~2. 2) _한국CDE학회 동계학술대회_
 * **Optimization of Rubber Wheel Tire Maintenance Scheduling for Automated Guided-Way Trains/Medium-Capacity Rail System**<br>Kyung-Su Kang, Jong-Woon Kim, Byung-Cheol Cha (Oct. 30-Nov. 2, 2023) CIE50: The 50th International Conference on Computers & Industrial Engineering. American University of Sharjah, Sharjah, UAE.
@@ -79,13 +80,15 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * **인체신호 감지 센서를 활용한 건설작업자 안전관리 방안**<br>강진우<sup>1</sup>, 강경수<sup>2</sup>, 류한국<sup>*</sup> (2019. 01. 25), _한국CDE학회 동계학술대회_
 * **랜덤 포레스트 기법을 이용한 건설현장 안전재해 예측 모형 기초 연구**<br>강경수<sup>1</sup>, 류한국<sup>*</sup> (2018. 11). _한국건축시공학회 추계학술발표대회_. 서울과학기술대학교.
 
-### Lectures
+### 특강
+
 * **<a href="https://www.syu.ac.kr/blog/sw%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99%EC%82%AC%EC%97%85%EB%8B%A8-2022-1-sw-step-up-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%8A%B9%EA%B0%95/">2022년학년도 인공지능 SW특강 - Kaggle로 배우는 머신러닝 문제해결 전략</a>**<br>소프트웨어중심대학사업단, 2022년 8월 22일부터 26일까지
 * **2022년학년도 인공지능 SW특강 - 파이토치와 라이트닝으로 배우는 딥러닝**<br>소프트웨어중심대학사업단, 2022년 1월 10일부터 21일까지
 * **2021년학년도 인공지능 SW특강 - 게임으로 배우는 객체 지향 프로그래밍**<br>소프트웨어중심대학사업단, 2021년 12월 22일부터 30일까지
 * **2018년도 빅데이터 분석 준전문가 양성교육과정 강의**<br>창원대학교 LINC플러스사업단, 2018년 10월 4일부터 2018년 11월 22일까지(완료)
 
-### 🏆 Competitions
+### 🏆 대회
+
 * `Dacon` **[AI 양재 허브 인공지능 오픈소스 경진대회](https://dacon.io/competitions/official/235977/leaderboard)** 8등/124팀
 * `Dacon` **[월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/leaderboard)** 2등/165팀
 * `Dacon` **[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/leaderboard/)** 4등/250팀
@@ -103,7 +106,8 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * `Kaggle` **캐글 코리아와 함께하는 1st ML 대회** - 2019년 2월 13일, 구글 코리아 후원/캐글 코리아
 * `Misc` **2018 빅콘테스트 분석 분야(NC소프트 게임 유저 이탈 예측) 챔피언 리그 운영위원장상**, 2018년 11월 21, 한국정보화진흥원
   
-### 🏅 Awards
+### 🏅 수상
+
 * 2026년 과기부 주최 AI Co-Scientist 경진대회 트랙2 선정(2026. 01)
 * 2025년 오픈소스 개발자대회 카카오 대표상(2025. 12)
 * 2024년 자율주행 경진대회 최우수상 (2024. 11)
