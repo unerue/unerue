@@ -111,7 +111,7 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
   
 ### 🏅 수상
 
-* 2026년 과기부 주최 AI Co-Scientist 경진대회 트랙2 선정(2026. 01)
+* 2026년 과기부 주최 AI Co-Scientist 경진대회 트랙2 대상(부총리상)(2026. 01)
 * 2025년 오픈소스 개발자대회 카카오 대표상(2025. 12)
 * 2024년 자율주행 경진대회 최우수상 (2024. 11)
 * DNA+드론 챌린지 지정공모2 과학기술정보통신부 장관상 (2022. 11.)
@@ -121,7 +121,8 @@ Smart Design, Construction IT and BIM 2019_. Penang, Malaysia.
 * 창원대학교 강의평가 우수교수상 (2016. 2.)
 
 ### Experience
-* 현) 에이리스 CTO
+* 현) 삼육대학교 산학협력단 연구교수
+* 현) 주식회사 에이리스 이사
 * 전) 삼육대학교 건축학과 조교수
 
 Read this in other languages: [English](https://github.com/unerue/unerue/blob/main/README.kr.md)
