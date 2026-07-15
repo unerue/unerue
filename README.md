@@ -1,4 +1,4 @@
-### Michael Kang @unerue
+### KANG KYUNGSU @unerue
 
 공학박사수료/경영학박사
 
